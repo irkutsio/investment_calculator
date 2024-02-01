@@ -1,6 +1,7 @@
 {
   "name": "react-essentials-practice",
   "private": true,
+  "homepage": "https://irkutsio.github.io/investment_calculator/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
