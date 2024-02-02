@@ -6,6 +6,7 @@ export const Results = ({ input }) => {
 		resultData[0].valueEndOfYear - resultData[0].interest - resultData[0].annualInvestment;
 
 	return (
+		<>
 		<table id="result">
 			<thead>
 				<tr>
@@ -35,5 +36,6 @@ export const Results = ({ input }) => {
 				})}
 			</tbody>
 		</table>
+		</>
 	);
 };
